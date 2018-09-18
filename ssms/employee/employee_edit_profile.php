@@ -68,15 +68,15 @@
 
                                         <div class="form-group">
                                             <label>EPF No:</label>
-                                            <input class="form-control" name="employee_epf_no" placeholder="Enter EPF No">
+                                            <input class="form-control" name="employee_icrements" placeholder="Enter Increments">
                                         </div>
                                         <div class="form-group">
                                             <label>ETF: </label>
-                                            <input class="form-control" name="employee_etf_no"placeholder="Enter ETF No">
+                                            <input class="form-control" name="employee_ratings"placeholder="Enter Ratings">
                                         </div>
                                         <div class="form-group">
                                             <label>Ratings:</label>
-                                            <input class="form-control" name="employee_email" placeholder="Enter rating number">
+                                            <input class="form-control" name="employee_total" placeholder="Enter Total">
                                         </div>
 
                                 </div>

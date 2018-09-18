@@ -21,7 +21,11 @@
         <div class="sidebar-collapse">
             <ul class="nav" id="main-menu">
                 <li class="text-center">
-                    <img src="../assets/img/find_user.png" class="user-image img-responsive"/>
+                    <label for="image">
+                        <input type="file" name="image" id="image" style="display:none;"/>
+                        <img src="../assets/img/find_user.png" class="user-image img-responsive"/>
+                    </label>
+
                 </li>
 
 
